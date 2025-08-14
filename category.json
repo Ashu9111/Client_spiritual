@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Crystals & Gems",
+    "icon": "Sparkles",
+    "description": "Healing stones to balance mind, body, and spirit.",
+    "count": 24,
+    "link": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID1"
+  },
+  {
+    "name": "Incense & Aroma",
+    "icon": "Feather",
+    "description": "Fragrant incense and oils for meditation & rituals.",
+    "count": 18,
+    "link": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID2"
+  },
+  {
+    "name": "Sacred Decor",
+    "icon": "Star",
+    "description": "Bring serenity to your space with sacred art.",
+    "count": 15,
+    "link": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID3"
+  },
+  {
+    "name": "Herbal & Natural",
+    "icon": "Leaf",
+    "description": "Herbs and teas for wellness and spiritual clarity.",
+    "count": 12,
+    "link": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID4"
+  }
+]
